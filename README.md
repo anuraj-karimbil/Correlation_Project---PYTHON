@@ -1,0 +1,1 @@
+This project involves Exploratory Data Analysis (EDA) and data cleaning of a movie dataset. The primary goal is to analyze the dataset and uncover correlations between various attributes, with a focus on exploring the relationships between budget, gross revenue, movie production companies, and viewer votes.
